@@ -22,7 +22,7 @@
 | 05 | **Contador** | [code](https://github.com/gav0id/2.E.1_05-Contador) |
 | 06 | **Libro** | [code](https://github.com/gav0id/2.E.1_06-Libro) |
 | 07 | **CuentaBancaria** | [code](https://github.com/gav0id/2.E.1_07-CuentaBancaria) |
-| 08 | **EsttudianteyArrayList** | [code](https://github.com/gav0id/2.E.1_08-EsttudianteyArrayList) |
+| 08 | **EstudianteyArrayList** | [code](https://github.com/gav0id/2.E.1_08-EstudianteyArrayList) |
 | 09 | **ProductoyCarritoDeCompras** | [code](https://github.com/gav0id/2.E.1_09-ProductoyCarritoDeCompras) |
 | 10 | **Personaje** | [code](https://github.com/gav0id/2.E.1_10-Personaje) |
 
