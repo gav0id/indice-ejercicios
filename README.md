@@ -8,8 +8,9 @@ Contenido Principal
 2. Bloque 2: Ejercicios 2.E.2 1 al 10
 
 Bloque 1:
-| # | Ejercicio ||| Enlace al Repositorio |
-| :-: | :--- | :--- | :---: |
+
+| # | Ejercicio | Enlace al Repositorio |
+| :-: | :--- | :---: |
 | 01 | **Persona** | [code](https://github.com/gav0id/2.E.1_01-Persona) |
 | 02 | **Mascota** | [code](https://github.com/gav0id/2.E.1_02-Mascota) |
 | 03 | **Auto** | [code](https://github.com/gav0id/2.E.1_03-Auto) |
@@ -20,8 +21,6 @@ Bloque 1:
 | 08 | **EsttudianteyArrayList** | [code](https://github.com/gav0id/2.E.1_08-EsttudianteyArrayList) |
 | 09 | **ProductoyCarritoDeCompras** | [code](https://github.com/gav0id/2.E.1_09-ProductoyCarritoDeCompras) |
 | 10 | **Personaje** | [code](https://github.com/gav0id/2.E.1_10-Personaje) |
-
-[▲ Volver al índice general](#índice-general-de-ejercicios---poo)
 
 
 
