@@ -8,7 +8,7 @@ Contenido Principal
 2. Bloque 2: Ejercicios 2.E.2 1 al 10
 
 Bloque 1:
-| # | Ejercicio | Enlace al Repositorio |
+| # | Ejercicio ||| Enlace al Repositorio |
 | :-: | :--- | :--- | :---: |
 | 01 | **Persona** | [code](https://github.com/gav0id/2.E.1_01-Persona) |
 | 02 | **Mascota** | [code](https://github.com/gav0id/2.E.1_02-Mascota) |
@@ -23,7 +23,7 @@ Bloque 1:
 
 [▲ Volver al índice general](#índice-general-de-ejercicios---poo)
 
----
+
 
 ## 🚀 Bloque 2: Proyectos y Avanzados
 
