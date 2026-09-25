@@ -7,7 +7,7 @@ Contenido Principal
 1. Bloque 1: Ejercicios 2.E.1 1 al 10
 2. Bloque 2: Ejercicios 2.E.2 1 al 10
 
-Bloque 1:
+Bloque 1: 2.E.1
 
 | # | Ejercicio | Enlace al Repositorio |
 | :-: | :--- | :---: |
