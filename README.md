@@ -11,7 +11,7 @@
 *2. Bloque 2: Ejercicios 2.E.2 1 al 10*
 
 
-**Bloque 1: 2.E.1**
+**Bloque 1: Ejercitación 2.E.1**
 
 | # | Ejercicio | Enlace al Repositorio |
 | :-: | :--- | :---: |
@@ -27,20 +27,17 @@
 | 10 | **Personaje** | [code](https://github.com/gav0id/2.E.1_10-Personaje) |
 
 
+**Bloque 2: Ejercitación 2.E.2**
 
-## 🚀 Bloque 2: Proyectos y Avanzados
-
-| # | Ejercicio | Descripción Corta | Enlace al Repositorio |
-| :-: | :--- | :--- | :---: |
-| 11 | **Asincronía Avanzada** | Implementación de Async/Await y concurrencia. | [Ver Código 🚀](https://github.com/TU-USUARIO/11-asincronia) |
-| 12 | **CRUD en Memoria** | Sistema de Crear, Leer, Actualizar y Borrar registros. | [Ver Código 🚀](https://github.com/TU-USUARIO/12-crud) |
-| 13 | **Autenticación Simple** | Manejo de sesiones de usuario y contraseñas. | [Ver Código 🚀](https://github.com/TU-USUARIO/13-autenticacion) |
-| 14 | **Base de Datos Local** | Conexión e inserción de datos en SQLite/Local storage. | [Ver Código 🚀](https://github.com/TU-USUARIO/14-bbdd) |
-| 15 | **Testing Unitario** | Creación de pruebas automatizadas para funciones clave. | [Ver Código 🚀](https://github.com/TU-USUARIO/15-testing) |
-| 16 | **API REST Completa** | Diseño de endpoints y arquitectura MVC. | [Ver Código 🚀](https://github.com/TU-USUARIO/16-api-rest) |
-| 17 | **Middlewares** | Intercepción de peticiones y control de accesos. | [Ver Código 🚀](https://github.com/TU-USUARIO/17-middlewares) |
-| 18 | **WebSockets** | Comunicación bidireccional en tiempo real (Chat simple). | [Ver Código 🚀](https://github.com/TU-USUARIO/18-websockets) |
-| 19 | **Despliegue y CI/CD** | Automatización de subida con GitHub Actions. | [Ver Código 🚀](https://github.com/TU-USUARIO/19-deploy) |
-| 20 | **Proyecto Final Integrador** | Aplicación completa uniendo los conceptos anteriores. | [Ver Código 🚀](https://github.com/TU-USUARIO/20-proyecto-final) |
-
-[▲ Volver al índice general](#índice-general-de-ejercicios---poo)
+| # | Ejercicio | Enlace al Repositorio |
+| :-: | :--- | :---: |
+| 01 | **ArticuloGeek** | [code](https://github.com/gav0id/2.E.2_01-ArticuloGeek) |
+| 02 | **Videojuego** | [code](https://github.com/gav0id/2.E.2_02-Videojuego) |
+| 03 | **ConsolaRetro** | [code](https://github.com/gav0id/2.E.2_03-ConsolaRetro) |
+| 04 | **CajaRegistradora** | [code](https://github.com/gav0id/2.E.2_04-CajaRegistradora) |
+| 05 | **SocioGeek** | [code](https://github.com/gav0id/2.E.2_05-SocioGeek) |
+| 06 | **Comic** | [code](https://github.com/gav0id/2.E.2_06-Comic) |
+| 07 | **CalculadoraPromocion** | [code](https://github.com/gav0id/2.E.2_07-CalculadoraPromocion) |
+| 08 | **MangaVolume** | [code](https://github.com/gav0id/2.E.2_08-MangaVolume) |
+| 09 | **GiftCardYCliente** | [code](https://github.com/gav0id/2.E.2_09-GiftCardYCliente) |
+| 10 | **ColeccionLote** | [code](https://github.com/gav0id/2.E.2_10-ColeccionLote) |
