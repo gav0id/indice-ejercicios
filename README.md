@@ -40,4 +40,4 @@
 | 07 | **CalculadoraPromocion** | [code](https://github.com/gav0id/2.E.2_07-CalculadoraPromocion) |
 | 08 | **MangaVolume** | [code](https://github.com/gav0id/2.E.2_08-MangaVolume) |
 | 09 | **GiftCardYCliente** | [code](https://github.com/gav0id/2.E.2_09-GiftCardYCliente) |
-| 10 | **ColeccionLote** | [code](https://github.com/gav0id/2.E.2_10-ColeccionLote) |
+| 10 | **ColeccionLoteyArticuloGeek** | [code](https://github.com/gav0id/2.E.2_10-ColeccionLoteyArticuloGeek) |
