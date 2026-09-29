@@ -11,7 +11,9 @@
 *2. Bloque 2: Ejercicios 2.E.2 1 al 10*
 
 
-**Bloque 1: Ejercitación 2.E.1**
+**Bloque 1: Ejercitación 2.E.1 y 2.E.2**
+
+**2.E.1**
 
 | # | Ejercicio | Enlace al Repositorio |
 | :-: | :--- | :---: |
@@ -27,7 +29,7 @@
 | 10 | **Personaje** | [code](https://github.com/gav0id/2.E.1_10-Personaje) |
 
 
-**Bloque 2: Ejercitación 2.E.2**
+**2.E.2**
 
 | # | Ejercicio | Enlace al Repositorio |
 | :-: | :--- | :---: |
