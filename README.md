@@ -1,4 +1,4 @@
-**Índice General de Ejercicios - POO**
+# **Índice General de Ejercicios - POO**
 
 *Este repositorio centraliza y organiza ejercicios prácticos hechos en toda la materia de POO*
 
@@ -13,7 +13,7 @@
 
 ## **Bloque 1: Ejercitación 2.E.1 y 2.E.2**
 
-# **2.E.1**
+### **2.E.1**
 
 | # | Ejercicio | Enlace al Repositorio |
 | :-: | :--- | :---: |
@@ -29,7 +29,7 @@
 | 10 | **Personaje** | [code](https://github.com/gav0id/2.E.1_10-Personaje) |
 
 
-# **2.E.2**
+### **2.E.2**
 
 | # | Ejercicio | Enlace al Repositorio |
 | :-: | :--- | :---: |
