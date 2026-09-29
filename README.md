@@ -11,7 +11,7 @@
 *2. Bloque 2: Ejercicios 2.E.2 1 al 10*
 
 
-**Bloque 1: Ejercitación 2.E.1 y 2.E.2**
+##**Bloque 1: Ejercitación 2.E.1 y 2.E.2**
 
 **2.E.1**
 
