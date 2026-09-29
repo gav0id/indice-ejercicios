@@ -1,10 +1,10 @@
 **Índice General de Ejercicios - POO**
 
-*Este repositorio centraliza y organiza los 20 ejercicios prácticos realizados*
+*Este repositorio centraliza y organiza ejercicios prácticos hechos en toda la materia de POO*
 
-*Cumpliendo con las normas de entrega de la materia, cada uno de los 20 ejercicios prácticos ha sido desarrollado y documentado en un repositorio completamente independiente*
+*Cumpliendo con las normas de entrega de la materia, cada uno de los ejercicios prácticos ha sido desarrollado y documentado en un repositorio completamente independiente*
 
-*Se navega utilizando los enlaces de las tablas inferiores para acceder a cada proyecto de forma aislada, donde encontrarás su código fuente, la explicación lógica de la resolución y las capturas de pantalla de la consola en su respectivo `README.md`*
+*Se navega utilizando los enlaces de las tablas inferiores para acceder a cada proyecto de forma aislada, donde se encuentra su código fuente, la explicación lógica de la resolución y las capturas de pantalla de la consola en su respectivo `README.md`*
 
 **Contenido Principal**
 *1. Bloque 1: Ejercicios 2.E.1 1 al 10*
