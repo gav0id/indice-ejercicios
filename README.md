@@ -7,7 +7,7 @@
 *Se navega utilizando los enlaces de las tablas inferiores para acceder a cada proyecto de forma aislada, donde se encuentra su código fuente, la explicación lógica de la resolución y las capturas de pantalla de la consola en su respectivo `README.md`*
 
 **Contenido Principal**  
-*Bloque 1: Ejercicios 2.E.1 1-10 y ejercicios 2.E.2 1-10*    
+*Bloque 1: Ejercicios 2.E.1 y 2.E.2 ambos del 1-10*    
 
 
 ## **Bloque 1: Ejercitación 2.E.1 y 2.E.2**
