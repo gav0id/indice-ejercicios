@@ -1,6 +1,6 @@
 # **Índice General de Ejercicios - POO**
 
-*Este repositorio <u>centraliza y organiza</u> ejercicios prácticos hechos en toda la materia de POO*
+*Este repositorio <ins>centraliza y organiza</ins> ejercicios prácticos hechos en toda la materia de POO*
 
 *Cumpliendo con las normas de entrega de la materia, cada uno de los ejercicios prácticos ha sido desarrollado y documentado en un repositorio completamente independiente*
 
