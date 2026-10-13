@@ -8,10 +8,10 @@
 
 ## **Contenido Principal**
 
-- **Unidad 2**
+- **Unidad 2 - Clases y Objetos**
   - Ejercicios 2.E.1 del 1-10
   - Ejercicios 2.E.2 del 1-10
-- **Unidad 3**
+- **Unidad 3 Herencia y Polimorfismo**
   - Ejercitación 3.E.1 - Herencia
   - Ejercitación 3.E.2 - Herencia
   - Ejercitación 3.E.3 - Polimorfismo
