@@ -8,13 +8,9 @@
 
 **Contenido Principal**  
 *Bloque 1: Ejercicios 2.E.1 y 2.E.2 ambos del 1-10*    
-```text
-hola
-    q
-        ase
-```
-
-
+<p>hola</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;q</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ase</p>
 
 
 ## **Bloque 1: Ejercitación 2.E.1 y 2.E.2**
