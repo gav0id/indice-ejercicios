@@ -15,7 +15,7 @@
   - Ejercicios 2.E.1 del 1-10
   - Ejercicios 2.E.2 del 1-10
 
-## **Bloque 1: Ejercitación 2.E.1 y 2.E.2**
+## **Unidad 2: Ejercitación 2.E.1 y 2.E.2**
 
 ### **2.E.1**
 
