@@ -16,7 +16,10 @@
   - Ejercitación 3.E.2 - Herencia
   - Ejercitación 3.E.3 - Polimorfismo
   - Ejercitación 3.E.4 - Polimorfismo
-
+- **Unidad 4**
+  - Ejercitación 4.E.1 - Manejo de Excepciones
+  - Ejercitación 4.E.2 - Manejo de Excepciones
+    
 ## **Unidad 2: Clases y Objetos**
 
 ### **2.E.1**
@@ -111,3 +114,35 @@
 | 08 | **SolicitudBeca** | [code](https://github.com/gav0id/3.E.4_08-SolicitudBeca) |
 | 09 | **Evaluable** | [code](https://github.com/gav0id/3.E.4_09-Evaluable) |
 | 10 | **ReservaTurno** | [code](https://github.com/gav0id/3.E.4_10-ReservaTurno) |
+
+## **Unidad 4: Manejo de Excepciones**
+
+### **4.E.1**
+
+| # | Ejercicio | Enlace al Repositorio |
+| :-: | :--- | :---: |
+| 01 | **PromedioEstudiante** | [code](https://github.com/gav0id/4.E.1_01-PromedioEstudiante) |
+| 02 | **CargaNotasExamen** | [code](https://github.com/gav0id/4.E.1_02-CargaNotasExamen) |
+| 03 | **NotaInvalidaException** | [code](https://github.com/gav0id/4.E.1_03-NotaInvalidaException) |
+| 04 | **InscripcionCurso** | [code](https://github.com/gav0id/4.E.1_04-InscripcionCurso) |
+| 05 | **LegajoInvalidoException** | [code](https://github.com/gav0id/4.E.1_05-LegajoInvalidoException) |
+| 06 | **AulaVirtualException** | [code](https://github.com/gav0id/4.E.1_06-AulaVirtualException) |
+| 07 | **SistemaTitulacion** | [code](https://github.com/gav0id/4.E.1_07-SistemaTitulacion) |
+| 08 | **ServicioAutenticacion** | [code](https://github.com/gav0id/4.E.1_08-ServicioAutenticacion) |
+| 09 | **RegistroMatriculas** | [code](https://github.com/gav0id/4.E.1_09-RegistroMatriculas) |
+| 10 | **ProcesadorMatricula** | [code](https://github.com/gav0id/4.E.1_10-ProcesadorMatricula) |
+
+### **4.E.2**
+
+| # | Ejercicio | Enlace al Repositorio |
+| :-: | :--- | :---: |
+| 01 | **PromedioPrestamos** | [code](https://github.com/gav0id/4.E.2_01-PromedioPrestamos) |
+| 02 | **CargaCodigosIsbn** | [code](https://github.com/gav0id/4.E.2_02-CargaCodigosIsbn) |
+| 03 | **EjemplarNoDisponibleException** | [code](https://github.com/gav0id/4.E.2_03-EjemplarNoDisponibleException) |
+| 04 | **LimitePrestamosSuperadoException** | [code](https://github.com/gav0id/4.E.2_04-LimitePrestamosSuperadoException) |
+| 05 | **IsbnInvalidoException** | [code](https://github.com/gav0id/4.E.2_05-IsbnInvalidoException) |
+| 06 | **SancionUsuarioException** | [code](https://github.com/gav0id/4.E.2_06-SancionUsuarioException) |
+| 07 | **LibroNoEncontradoException** | [code](https://github.com/gav0id/4.E.2_07-LibroNoEncontradoException) |
+| 08 | **ServicioPrestamos** | [code](https://github.com/gav0id/4.E.2_08-ServicioPrestamos) |
+| 09 | **LibroDuplicadoException** | [code](https://github.com/gav0id/4.E.2_09-LibroDuplicadoException) |
+| 10 | **ProcesadorDevolucion** | [code](https://github.com/gav0id/4.E.2_10-ProcesadorDevolucion) |
