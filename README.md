@@ -8,7 +8,7 @@
 
 **Contenido Principal**      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Modulo 2**
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ejercicios 2.E.1 del 1-10*</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ejercicios 2.E.1 del 1-10*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ejercicios 2.E.2 del 1-10*
 
 ## **Bloque 1: Ejercitación 2.E.1 y 2.E.2**
