@@ -12,8 +12,10 @@
   - Ejercicios 2.E.1 del 1-10
   - Ejercicios 2.E.2 del 1-10
 - **Unidad 3**
-  - Ejercicios 2.E.1 del 1-10
-  - Ejercicios 2.E.2 del 1-10
+  - Ejercitación 3.E.1 - Herencia
+  - Ejercitación 3.E.2 - Herencia
+  - Ejercitación 3.E.3 - Polimorfismo
+  - Ejercitación 3.E.4 - Polimorfismo
 
 ## **Unidad 2: Ejercitación 2.E.1 y 2.E.2**
 
