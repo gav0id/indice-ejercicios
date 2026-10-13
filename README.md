@@ -17,7 +17,7 @@
   - Ejercitación 3.E.3 - Polimorfismo
   - Ejercitación 3.E.4 - Polimorfismo
 
-## **Unidad 2: Ejercitación 2.E.1 y 2.E.2**
+## **Unidad 2: Clases y Objetos**
 
 ### **2.E.1**
 
