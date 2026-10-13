@@ -6,13 +6,14 @@
 
 *Se navega utilizando los enlaces de las tablas inferiores para acceder a cada proyecto de forma aislada, donde se encuentra: **su código fuente, la explicación lógica de la resolución y las capturas de pantalla de la consola en su respectivo `README.md`***
 
-###**Contenido Principal**      
-##<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unidad 2</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Ejercicios 2.E.1 del 1-10 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Ejercicios 2.E.2 del 1-10 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;## Unidad 3 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Ejercicios 2.E.1 del 1-10 </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Ejercicios 2.E.2 del 1-10 </p>
+## **Contenido Principal**
+
+- **Unidad 2**
+  - Ejercicios 2.E.1 del 1-10
+  - Ejercicios 2.E.2 del 1-10
+- **Unidad 3**
+  - Ejercicios 2.E.1 del 1-10
+  - Ejercicios 2.E.2 del 1-10
 
 ## **Bloque 1: Ejercitación 2.E.1 y 2.E.2**
 
