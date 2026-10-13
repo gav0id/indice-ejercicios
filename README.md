@@ -8,11 +8,12 @@
 
 **Contenido Principal**  
 *Bloque 1: Ejercicios 2.E.1 y 2.E.2 ambos del 1-10*    
-<pre>
+```text
 hola
     q
         ase
-</pre>
+```
+
 
 
 
